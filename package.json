@@ -1,0 +1,27 @@
+{
+  "name": "optimisation-developpement-tp5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesisalome/optimisation-developpement-tp5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesisalome/optimisation-developpement-tp5/issues"
+  },
+  "homepage": "https://github.com/cesisalome/optimisation-developpement-tp5#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0",
+    "jest": "^30.2.0"
+  }
+}
